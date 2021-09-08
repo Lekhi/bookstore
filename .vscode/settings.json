@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/home/lekhi/.local/share/virtualenvs/books-ycoUEylv/bin/python"
+    "python.pythonPath": "/home/lekhi/.local/share/virtualenvs/books-ycoUEylv/bin/python",
+    "emmet.includeLanguages": {"django-html": "html"},
 }
