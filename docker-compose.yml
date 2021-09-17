@@ -7,6 +7,8 @@ services:
       environment:
         - SECRET_KEY=q5io$$y8mvtmy+$$^#*x-op3rxl-9h4pi)b_%15vnm%z!4d+h)m)
         - DEBUG=1
+        - STRIPE_TEST_PUBLISHABLE_KEY=PLACEHOLDER
+        - STRIPE_TEST_SECRET_KEY=PLACEHOLDER
       volumes:
         - .:/code
       ports:
